@@ -1,0 +1,23 @@
+[
+ {"question": "How do I connect to the VPN from home?", "should_answer": true, "expected_source": "vpn_guide.md", "keywords": ["vpn.novaretail.example"]},
+ {"question": "VPN shows error 809, what should I do?", "should_answer": true, "expected_source": "vpn_guide.md", "keywords": ["hotspot"]},
+ {"question": "Can I use my personal phone for the VPN?", "should_answer": true, "expected_source": "vpn_guide.md", "keywords": ["not"]},
+ {"question": "How long must my password be?", "should_answer": true, "expected_source": "accounts_and_mfa.md", "keywords": ["14"]},
+ {"question": "How often do I have to change my password?", "should_answer": true, "expected_source": "accounts_and_mfa.md", "keywords": ["90"]},
+ {"question": "I forgot my password, how do I reset it?", "should_answer": true, "expected_source": "accounts_and_mfa.md", "keywords": ["passwords.novaretail.example"]},
+ {"question": "Can IT support ask me for my MFA code?", "should_answer": true, "expected_source": "accounts_and_mfa.md", "keywords": ["never"]},
+ {"question": "I lost my phone that has my authenticator app", "should_answer": true, "expected_source": "accounts_and_mfa.md", "keywords": ["manager"]},
+ {"question": "My account got locked after wrong password attempts", "should_answer": true, "expected_source": "accounts_and_mfa.md", "keywords": ["15"]},
+ {"question": "How do I install new software on my laptop?", "should_answer": true, "expected_source": "devices_and_software.md", "keywords": ["Company Portal"]},
+ {"question": "How long does software approval take?", "should_answer": true, "expected_source": "devices_and_software.md", "keywords": ["3"]},
+ {"question": "I lost my laptop, what should I do?", "should_answer": true, "expected_source": "devices_and_software.md", "keywords": ["1 hour"]},
+ {"question": "My Outlook mailbox is full", "should_answer": true, "expected_source": "email_and_collaboration.md", "keywords": ["50"]},
+ {"question": "How do I report a phishing email?", "should_answer": true, "expected_source": "email_and_collaboration.md", "keywords": ["Report Phishing"]},
+ {"question": "Teams keeps misbehaving, how do I fix it?", "should_answer": true, "expected_source": "email_and_collaboration.md", "keywords": ["cache"]},
+ {"question": "What is the latest Microsoft Teams outage status?", "should_answer": false, "expected_source": null, "keywords": []},
+ {"question": "What is the guest Wi-Fi password?", "should_answer": false, "expected_source": null, "keywords": []},
+ {"question": "What is the maternity leave policy?", "should_answer": false, "expected_source": null, "keywords": []},
+ {"question": "How do I submit a travel expense report?", "should_answer": false, "expected_source": null, "keywords": []},
+ {"question": "Who won the cricket match yesterday?", "should_answer": false, "expected_source": null, "keywords": []},
+ {"question": "Can you recommend a good gaming laptop?", "should_answer": false, "expected_source": null, "keywords": []}
+]
